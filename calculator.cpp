@@ -52,5 +52,5 @@ int main (){
         cout<<"Invalid choice";
         break;
     }
-    
+    cout<<"\nthank you for use our calculator";
 }
